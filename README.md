@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinaya15meenatchisundaram" alt="abinaya15meenatchisundaram" /></a> </p>
 
-- 🔭 I’m currently working on **Drone Project**
+- 🔭 I’m currently working on **Drone Project and 8 Bit Computer**
 
-- 🌱 I’m currently learning **IoT and Embedded Systems**
+- 🌱 I’m currently learning **IoT and Embedded Systems,Rust Programming Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abinaya15meenatchisundaram](https://github.com/abinaya15meenatchisundaram)
 
