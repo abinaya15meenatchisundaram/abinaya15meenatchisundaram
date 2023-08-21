@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Drone Project and 8 Bit Computer**
 
-- 🌱 I’m currently learning **IoT and Embedded Systems,Rust Programming Language,SQL, Problem Solving**
+- 🌱 I’m currently learning **IoT and Embedded Systems,Rust Programming Language,SQL, Problem Solving, Python programming Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abinaya15meenatchisundaram](https://github.com/abinaya15meenatchisundaram)
 
