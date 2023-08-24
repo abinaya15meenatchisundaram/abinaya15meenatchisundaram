@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abinaya15meenatchisundaram](https://github.com/abinaya15meenatchisundaram)
 
-- 💬 Ask me about **Tech stuffs**
+- 💬 Ask me about **Tech stuffs about IoT**
 
 - 📫 How to reach me **abinaya.meenatchisundharam@gmail.com**
 
