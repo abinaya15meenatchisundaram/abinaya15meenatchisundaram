@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abinaya</h1>        
-<h3 align="center">A Passionate IoT Enthusiast</h3>     
+<h3 align="center">A Passionate Embedded and IoT Enthusiast</h3>     
                                                           
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abinaya15meenatchisundaram&label=Profile%20views&color=0e75b6&style=flat" alt="abinaya15meenatchisundaram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinaya15meenatchisundaram" alt="abinaya15meenatchisundaram" /></a> </p>
 
-- 🔭 I’m currently working on **Drone Project and 8 Bit Computer** 
+- 🔭 I’m a recent ECE Graduate 
 
 - 🌱 I’m currently learning **IoT and Embedded Systems,Rust Programming Language,SQL, Python programming Language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abinaya15meenatchisundaram](https://github.com/abinaya15meenatchisundaram)
 
-- 💬 Ask me about **Tech stuffs about IoT**
+- 💬 Ask me about **Tech stuffs about IoT and Embedded System**
 
 - 📫 How to reach me **abinaya.meenatchisundharam@gmail.com**
 
